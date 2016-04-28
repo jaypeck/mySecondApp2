@@ -1,0 +1,17 @@
+[
+	{ "movie":"Gods of Egypt",
+	 "description":"The survival of mankind hangs in the balance when Set (Gerard Butler), the merciless god of darkness, usurps Egypt's throne and plunges the prosperous empire into chaos and conflict. Hoping to save the world and rescue his true love, a defiant mortal named Bek (Brenton Thwaites) forms an unlikely alliance with the powerful god Horus (Nikolaj Coster-Waldau). Their battle against Set and his henchmen takes them into the afterlife and across the heavens for an epic confrontation.",
+	"image":"gods.jpg"
+	},
+	
+	{ "movie":"Batman v Superman: Dawn of Justice ",
+	 "description":"It's been nearly two years since Superman's (Henry Cavill) colossal battle with Zod (Michael Shannon) devastated the city of Metropolis. The loss of life and collateral damage left many feeling angry and helpless, including crime-fighting billionaire Bruce Wayne (Ben Affleck). Convinced that Superman is now a threat to humanity, Batman embarks on a personal vendetta to end his reign on Earth, while the conniving Lex Luthor (Jesse Eisenberg) launches his own crusade against the Man of Steel.",
+	"image":"batman.jpg"
+	},
+
+	{ "movie":"The Divergent Series: Allegiant",
+	 "description":"Tris (Shailene Woodley) escapes with Four (Theo James) to journey beyond the wall that encloses Chicago. For the first time, they leave the only city and family they have ever known to find a peaceful solution. Once outside, they learn shocking new truths that render old discoveries meaningless. As the ruthless battle threatens humanity, Tris and Four quickly decide who to trust to survive. Tris must ultimately make difficult choices about courage, allegiance, sacrifice and love.",
+	"image":"allegiant.jpg"
+	}
+
+]
