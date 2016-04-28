@@ -1,0 +1,52 @@
+<ion-view view-title="Tickets">
+  <ion-content class="padding"> 
+
+    
+ 
+	<div class="ui special cards" >
+	  <div class="card" ng-repeat="jin in aiya">
+	   
+	    
+
+	    <div class="blurring dimmable image">
+	      <div class="ui dimmer">
+	        <div class="content">
+	          <div class="center">
+	            
+	            <div class="ui inverted button">BUY NOW!</div>
+	          
+	          </div>
+	        </div>
+	      </div>
+	      <img ng-src="{{jin.poster}}">
+	    </div>
+	    
+	    
+
+	    <div class="content">
+	      
+	      <a class="header">{{jin.des}}</a>
+	      <div class="meta">
+	        <span class="date">{{jin.date}}</span>
+	      </div>
+	    
+	    </div>
+	    
+	    
+	    <div class="extra content">
+	      <a>
+	        <i class="users icon"></i>
+	        {{jin.mem}}
+	      </a>
+	    </div>
+	  
+	  
+
+
+	  </div>
+	</div> 
+
+
+   
+   </ion-content>
+</ion-view> 

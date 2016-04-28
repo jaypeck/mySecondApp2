@@ -1,0 +1,47 @@
+[
+	{
+	      
+	      "artist": "Big Bang",
+	      "des": ".M.A.D.E. Tour",
+	      "poster": "img/concert1.jpg",
+		  "date":"23 May 2016",
+		  "mem":"29040 have already bought this ticket"
+	} ,
+
+	{
+	      
+	      "artist": "Zico",
+	      "des": "BASTARZ Tour",
+	      "poster": "img/concert2.jpg",
+	      "date":"14 June 2016",
+	      "mem":"5000 have already bought this ticket"
+	} ,
+
+	{
+	      
+	      "artist": "Winner",
+	      "des": "EXIT Tour",
+	      "poster": "img/concert3.jpg",
+	      "date":"13 May 2016",
+	      "mem":"2567 have already bought this ticket"
+	} ,
+	
+	{
+	      
+	      "artist": "Zion T",
+	      "des": "THEGIANT Tour",
+	      "poster": "img/concert4.jpg",
+		  "date":"25 July 2016",
+	      "mem":"566 have already bought this ticket"
+	} ,
+	
+	{
+	      
+	      "artist": "Ikon",
+	      "des": "WELCOME BACK Tour",
+	      "poster": "img/concert5.jpg",
+	      "date":"5 July 2016",
+	      "mem":"6543 have already bought this ticket"
+	}
+    
+]

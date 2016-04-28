@@ -1,5 +1,38 @@
 <ion-view view-title="Concerts">
   <ion-content class="padding"> 
 
+    <ion-list>
+     
+
+
+
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="song in aiya" type="item-text-wrap" ng-href="#/tab/concert/{{song.id}}">
+        
+
+        
+
+        <img ng-src="{{song.poster}}">
+        <h2>{{song.artist}}</h2>
+        <p>{{song.des}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+
+        
+
+        <ion-option-button class="button-assertive" ng-click="remove(song)">
+          Delete
+        </ion-option-button>
+      
+
+
+
+
+      </ion-item>
+    
+
+
+    </ion-list>
+
+
+
    </ion-content>
 </ion-view>
